@@ -1,4 +1,5 @@
-﻿# Présentation et objectif pédagogique
+﻿![Useless Box](/Photos/00couverture.jpg)
+# Présentation et objectif pédagogique
 
 Création d'une Useless Box en bois à base d'Arduino.
 
@@ -49,7 +50,7 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm<br>
 Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier [Plan de coupe](/Ressources/UselessBox_plan-modifié.svg/)<br>
 Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite<br> 
-![Useless Box en assemblage](/Photos/30.jpg)
+![Useless Box en assemblage](/Photos/20.jpg)
 Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )<br>
 Nous allons maintenant passer au montage la partie éléctronique<br>
 ---
