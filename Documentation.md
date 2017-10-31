@@ -1,4 +1,5 @@
-﻿![Useless Box](/Photos/00couverture.jpg)
+﻿#Création d'une Useless Box (Documentation)
+![Useless Box](/Photos/00couverture.jpg)
 # Présentation et objectif pédagogique
 
 Création d'une Useless Box en bois à base d'Arduino.
