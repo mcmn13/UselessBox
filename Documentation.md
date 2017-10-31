@@ -47,7 +47,7 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 # Création d'une Useless Box
 ## Etape 1 : Préparation de la boite
 Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm<br>
-Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier UselessBox_plan-modifié.svg<br>
+Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier [Plan de coupe](/Ressources/UselessBox_plan-modifié.svg/)<br>
 Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite<br> 
 ![Useless Box en assemblage](/Photos/30.jpg)
 Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )<br>
@@ -81,3 +81,9 @@ Insérez et fixez l'interrupteur de mise sous-tension à son emplacement prévu 
 Fixez le couvercle contenant l'interrupteur à la boite<br>
 
 Je vous conseil de ne pas fixer les 2 autres côtés : l'un permettant l'accès aux piles pour un changement, l'autre permettant l'accès au port USB de l'Arduino.
+---
+#Pour aller plus loin
+N'hésitez pas à rajouter une LED, un second servomoteur, améliorer le code (mise en place de scénario), un capteur de proximité, des roues, etc...
+---
+#Bibliographie
+[Plan de coupe initiale par le FabLab de Leuven](https://fablab-leuven.be/?q=node/1648)
