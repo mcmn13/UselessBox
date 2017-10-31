@@ -54,6 +54,7 @@ Nous allons maintenant passer au montage la partie éléctronique
 ## Etape 2 : Montage et préparation de l'Arduino
 Référez vous au ![Fritzing](/Fritzing/useless_box.fzz) "Useless Box"
 ![Fritzing](/Fritzing/useless_box_bb.jpg)
+
 Les composants à souder : 	
 - Connecteur 9V
 - Servomoteur
