@@ -82,8 +82,8 @@ Fixez le couvercle contenant l'interrupteur à la boite<br>
 
 Je vous conseil de ne pas fixer les 2 autres côtés : l'un permettant l'accès aux piles pour un changement, l'autre permettant l'accès au port USB de l'Arduino.
 ---
-#Pour aller plus loin
+# Pour aller plus loin
 N'hésitez pas à rajouter une LED, un second servomoteur, améliorer le code (mise en place de scénario), un capteur de proximité, des roues, etc...
 ---
-#Bibliographie
+# Bibliographie
 [Plan de coupe initiale par le FabLab de Leuven](https://fablab-leuven.be/?q=node/1648)
