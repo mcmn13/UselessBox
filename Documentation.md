@@ -31,18 +31,18 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 1,86€	[RS-Composant](http://fr.rs-online.com/web/p/interrupteurs-a-levier/4480911/)
 ---
 ## Matériaux
--Planche de Bois 325x250x3mm
+-Planche de Bois 325x250x3mm<br>
 -Fil d'étain
 ## Outils
--Découpeuse laser
--Fer à souder
--Pistolet à colle
--Colle type super glue
+-Découpeuse laser<br>
+-Fer à souder<br>
+-Pistolet à colle<br>
+-Colle type super glue<br>
 -Cable USB PC/Arduino
 ## Logiciel
 -Arduino<br>
 -Inkscape<br>
--JobControl (découpeuse laser)<br>
+-JobControl (découpeuse laser)
 ---
 # Création d'une Useless Box
 ## Etape 1 : Préparation de la boite
