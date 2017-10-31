@@ -1,5 +1,6 @@
 # UselessBox
 Another Useless Box
+![Useless Box en action](/Photos/00gif.gif "Useless Box en Action")
 ---
 Bonjour,
 
