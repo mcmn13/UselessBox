@@ -1,12 +1,12 @@
-﻿#Présentation et objectif pédagogique
+﻿# Présentation et objectif pédagogique
 
 Création d'une Useless Box en bois à base d'Arduino.
 
 Objectif pédagogique : 	- Découvrir les principes de l'électronique 
 			- Savoir utiliser des outils d'électronique dans le respect des règles de sécurité
 ---
-#Pré-requis
-##Matériel
+# Pré-requis
+## Matériel
 -1 Arduino Uno
 21€	 	[RS-Composant](http://fr.rs-online.com/web/p/kits-de-developpement-pour-processeurs-et-microcontroleurs/7697409/)
 
@@ -30,21 +30,22 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique
 -***1 autre bouton toggle switch pour faire la mise sous-tension***
 1,86€	[RS-Composant](http://fr.rs-online.com/web/p/interrupteurs-a-levier/4480911/)
 ---
-##Matériaux
+## Matériaux
 -Planche de Bois 325x250x3mm
 -Fil d'étain
-##Outils
+## Outils
 -Découpeuse laser
 -Fer à souder
 -Pistolet à colle
 -Colle type super glue
 -Cable USB PC/Arduino
-##Logiciel
+## Logiciel
 -Arduino
 -Inkscape
 -JobControl (découpeuse laser)
 ---
-#Etape 1 : Création d'une Useless Box
+# Création d'une Useless Box
+## Etape 1 : Préparation de la boite
 Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm
 Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier UselessBox_plan-modifié.svg
 Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite 
@@ -52,7 +53,7 @@ Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le c�
 Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )
 Nous allons maintenant passer au montage la partie éléctronique
 ---
-#Etape 2 : Montage et préparation de l'Arduino
+## Etape 2 : Montage et préparation de l'Arduino
 Référez vous au Fritzing "Useless Box"
 ![Fritzing](/Fritzing/useless_box.fzz)
 
@@ -63,7 +64,7 @@ Les composants à souder : 	-Connecteur 9V
 
 N'oubliez pas de téléverser et tester votre circuit avant de passer à l'assemblage !
 ---
-#Etape 3 :Assemblage du circuit dans la boite
+## Etape 3 :Assemblage du circuit dans la boite
 
 Placez l'interrupteur à son emplacement prévu sur la boite.
 Vérifiez le sens "on-off" de l'interrupteur ; Le servomoteur doit s'activer de l'activation (off) jusqu'à la désactivation (off)
