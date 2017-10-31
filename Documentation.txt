@@ -44,10 +44,39 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique
 -Inkscape
 -JobControl (découpeuse laser)
 ---
-#Création d'une Useless Box
+#Etape 1 : Création d'une Useless Box
 Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm
 Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier UselessBox_plan-modifié.svg
 Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite 
 ![Useless Box en assemblage](/Photos/30.jpg)
 Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )
 Nous allons maintenant passer au montage la partie éléctronique
+---
+#Etape 2 : Montage et préparation de l'Arduino
+Référez vous au Fritzing "Useless Box"
+![Fritzing](/Fritzing/useless_box.fzz)
+
+Les composants à souder : 	-Connecteur 9V
+				-Servomoteur
+				-Résistance
+				-Boutons toggle switch
+
+N'oubliez pas de téléverser et tester votre circuit avant de passer à l'assemblage !
+---
+#Etape 3 :Assemblage du circuit dans la boite
+
+Placez l'interrupteur à son emplacement prévu sur la boite.
+Vérifiez le sens "on-off" de l'interrupteur ; Le servomoteur doit s'activer de l'activation (off) jusqu'à la désactivation (off)
+Une fois le sens du bouton toggle switch vérifié, fixez-le à l'aide de super glue
+Avec le pistolet-à-colle, fixez l'adaptateur 9V. N'oubliez pas d'inclure les piles !
+![Vue de face](/Photos/30.jpg)
+Pour positionner correction le servomoteur, faite un essai avant de le fixer
+Fixez le "Finger" (partie en bois qui vient appuyer l'interrupteur) sur le servomoteur
+Fixez le support en bois sur la base de la boite à l'aide de super glue
+Fixez le servomoteur en le collant sur son support et contre la paroi
+![Vue de côté](/Photos/31.jpg)
+Fixez l'Arduino sur la base de la carte à l'aide du pistolet-à-colle
+***Insérez et fixez l'interrupteur de mise sous-tension à son emplacement prévu (tranche de la boite)***
+Fixez le couvercle contenant l'interrupteur à la boite
+
+Je vous conseil de ne pas fixer les 2 autres côtés : l'un permettant l'accès aux piles pour un changement, l'autre permettant l'accès au port USB de l'Arduino.
