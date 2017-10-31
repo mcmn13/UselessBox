@@ -46,38 +46,38 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 ---
 # Création d'une Useless Box
 ## Etape 1 : Préparation de la boite
-Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm
-Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier UselessBox_plan-modifié.svg
-Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite 
+Munissez-vous d'une plaque de bois 325x300mm d'épaisseur 3mm<br>
+Préparez la découpeuse laser puis, lancer la découpe à l'aide du fichier UselessBox_plan-modifié.svg<br>
+Assemblez et collez (super glue ou pistolet-à-colle) la base à ainsi que le côté bas et droit de la boite<br> 
 ![Useless Box en assemblage](/Photos/30.jpg)
-Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )
-Nous allons maintenant passer au montage la partie éléctronique
+Ne collez pas le couvercle, nous le fixerons après avoir soudé l'interrupteur ;) )<br>
+Nous allons maintenant passer au montage la partie éléctronique<br>
 ---
 ## Etape 2 : Montage et préparation de l'Arduino
-Référez vous au Fritzing "Useless Box"
-![Fritzing](/Fritzing/useless_box.fzz)
+Référez vous au ![Fritzing](/Fritzing/useless_box.fzz) "Useless Box"
 
-Les composants à souder : 	-Connecteur 9V
-				-Servomoteur
-				-Résistance
+
+Les composants à souder : 	-Connecteur 9V<br>
+				-Servomoteur<br>
+				-Résistance<br>
 				-Boutons toggle switch
 
 N'oubliez pas de téléverser et tester votre circuit avant de passer à l'assemblage !
 ---
 ## Etape 3 :Assemblage du circuit dans la boite
 
-Placez l'interrupteur à son emplacement prévu sur la boite.
-Vérifiez le sens "on-off" de l'interrupteur ; Le servomoteur doit s'activer de l'activation (off) jusqu'à la désactivation (off)
-Une fois le sens du bouton toggle switch vérifié, fixez-le à l'aide de super glue
-Avec le pistolet-à-colle, fixez l'adaptateur 9V. N'oubliez pas d'inclure les piles !
+Placez l'interrupteur à son emplacement prévu sur la boite.<br>
+Vérifiez le sens "on-off" de l'interrupteur ; Le servomoteur doit s'activer de l'activation (off) jusqu'à la désactivation (off)<br>
+Une fois le sens du bouton toggle switch vérifié, fixez-le à l'aide de super glue<br>
+Avec le pistolet-à-colle, fixez l'adaptateur 9V. N'oubliez pas d'inclure les piles !<br>
 ![Vue de face](/Photos/30.jpg)
-Pour positionner correction le servomoteur, faite un essai avant de le fixer
-Fixez le "Finger" (partie en bois qui vient appuyer l'interrupteur) sur le servomoteur
-Fixez le support en bois sur la base de la boite à l'aide de super glue
-Fixez le servomoteur en le collant sur son support et contre la paroi
+Pour positionner correction le servomoteur, faite un essai avant de le fixer<br>
+Fixez le "Finger" (partie en bois qui vient appuyer l'interrupteur) sur le servomoteur<br>
+Fixez le support en bois sur la base de la boite à l'aide de super glue<br>
+Fixez le servomoteur en le collant sur son support et contre la paroi<br>
 ![Vue de côté](/Photos/31.jpg)
-Fixez l'Arduino sur la base de la carte à l'aide du pistolet-à-colle
-***Insérez et fixez l'interrupteur de mise sous-tension à son emplacement prévu (tranche de la boite)***
-Fixez le couvercle contenant l'interrupteur à la boite
+Fixez l'Arduino sur la base de la carte à l'aide du pistolet-à-colle<br>
+Insérez et fixez l'interrupteur de mise sous-tension à son emplacement prévu (tranche de la boite)<br>
+Fixez le couvercle contenant l'interrupteur à la boite<br>
 
 Je vous conseil de ne pas fixer les 2 autres côtés : l'un permettant l'accès aux piles pour un changement, l'autre permettant l'accès au port USB de l'Arduino.
