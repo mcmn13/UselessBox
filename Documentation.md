@@ -2,7 +2,7 @@
 
 Création d'une Useless Box en bois à base d'Arduino.
 
-Objectif pédagogique : 	- Découvrir les principes de l'électronique 
+Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 			- Savoir utiliser des outils d'électronique dans le respect des règles de sécurité
 ---
 # Pré-requis
@@ -27,7 +27,7 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique
 -Fils électriques isolés
 1,20€ les 65 	[ebay](http://www.ebay.fr/itm/65pcs-Male-to-Male-Flexible-Solderless-Breadboard-Jumper-Cable-Wires-For-Arduino/301227825820?hash=item462293da9c:g:2tIAAOSwubRXHx96)
 
--***1 autre bouton toggle switch pour faire la mise sous-tension***
+-1 autre bouton toggle switch pour faire la mise sous-tension
 1,86€	[RS-Composant](http://fr.rs-online.com/web/p/interrupteurs-a-levier/4480911/)
 ---
 ## Matériaux
@@ -40,9 +40,9 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique
 -Colle type super glue
 -Cable USB PC/Arduino
 ## Logiciel
--Arduino
--Inkscape
--JobControl (découpeuse laser)
+-Arduino<br>
+-Inkscape<br>
+-JobControl (découpeuse laser)<br>
 ---
 # Création d'une Useless Box
 ## Etape 1 : Préparation de la boite
