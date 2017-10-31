@@ -6,7 +6,7 @@ Objectif pédagogique : 	- Découvrir les principes de l'électronique<br>
 			- Savoir utiliser des outils d'électronique dans le respect des règles de sécurité
 ---
 # Pré-requis
-## Matériel
+## Matériel (total de 42,83€)
 -1 Arduino Uno
 21€	 	[RS-Composant](http://fr.rs-online.com/web/p/kits-de-developpement-pour-processeurs-et-microcontroleurs/7697409/)
 
